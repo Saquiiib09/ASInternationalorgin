@@ -29,7 +29,7 @@ const About = () => {
             name: "KASHIF KHAN",
             role: "Developer",
             contact: "+0987654321",
-            image: "https://via.placeholder.com/80",
+            image: "src/assets/images/kashif.jpg",
             twitterLink: "#",
             linkedinLink: "#",
         },
