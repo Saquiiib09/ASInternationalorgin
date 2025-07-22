@@ -100,14 +100,14 @@ const Header = () => {
               </Link>
             </li>
            
-            <li>
+            {/* <li>
               <Link
                 className={`menu-item ${location.pathname === "/jobs" ? "active" : ""}`}
                 to="/jobs"
               >
                 Jobs
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
 
