@@ -12,33 +12,25 @@ const About = () => {
         {
             name: "ASHFAQUE KHAN",
             role: "Founder",
-            // contact: "+1234567890",
-            // image: "https://via.placeholder.com/80",
-            // twitterLink: "#",
+           
             linkedinLink: "https://www.linkedin.com/company/a-s-international-hr-consultancy/",
         },
         {
             name: "FAIZAN KHAN",
             role: "Recruitment Head",
-            // contact: "+1122334455",
-            // image: "https://via.placeholder.com/80",
-            // twitterLink: "#",
+           
             linkedinLink: "https://www.linkedin.com/company/a-s-international-hr-consultancy/",
         },
         {
             name: "KASHIF KHAN",
             role: "Marketing Manager",
-            // contact: "+0987654321",
-            // image: "src/assets/images/kashif.jpg",
-            // twitterLink: "#",
+           
             linkedinLink: "https://www.linkedin.com/company/a-s-international-hr-consultancy/",
         },
         {
             name: "TARIQUE KHAN",
             role: "CEO - Project Manager",
-            // contact: "+5544332211",
-            // image: "https://via.placeholder.com/80",
-            // twitterLink: "#",
+           
             linkedinLink: "https://www.linkedin.com/company/a-s-international-hr-consultancy/",
         },
     ], []);
