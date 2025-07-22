@@ -11,11 +11,11 @@ const About = () => {
     const teamMembers = useMemo(() => [
         {
             name: "ASHFAQUE KHAN",
-            role: "Designer",
+            role: "Founder",
             contact: "+1234567890",
-            image: "https://via.placeholder.com/80",
-            twitterLink: "#",
-            linkedinLink: "#",
+            // image: "https://via.placeholder.com/80",
+            // twitterLink: "#",
+            // linkedinLink: "#",
         },
         {
             name: "FAIZAN KHAN",
