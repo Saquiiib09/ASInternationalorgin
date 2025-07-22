@@ -13,7 +13,7 @@ const About = () => {
             name: "ASHFAQUE KHAN",
             role: "Founder",
            
-            linkedinLink: "https://www.linkedin.com/company/a-s-international-hr-consultancy/",
+            linkedinLink: "https://www.linkedin.com/in/ashfaque-khan-42a74929a/",
         },
         {
             name: "FAIZAN KHAN",
@@ -31,7 +31,7 @@ const About = () => {
             name: "TARIQUE KHAN",
             role: "Recruitment Head",
            
-            linkedinLink: "https://www.linkedin.com/company/a-s-international-hr-consultancy/",
+            linkedinLink: "https://www.linkedin.com/in/tarique-khan-a180b1204//",
         },
     ], []);
 
