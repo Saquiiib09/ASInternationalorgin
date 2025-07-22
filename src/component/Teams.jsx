@@ -12,20 +12,20 @@ const TeamCard = ({ teamMembers }) => {
       <div className="team-container">
         {teamMembers.map((member, index) => (
           <div className="team-card" key={index}>
-            <img src={member.image} alt={`${member.name}'s Logo`} />
+            {/* <img src={member.image} alt={`${member.name}'s Logo`} /> */}
             <h3>{member.name}</h3>
             <p>{member.role}</p>
-            <div className="contact">Contact: {member.contact}</div>
+            {/* <div className="contact">Contact: {member.contact}</div> */}
             <div className="social-iconss">
-              <Link
-                to={member.twitterLink}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-              <i className="fab fa-twitter"></i>
+              {/* <Link
+              //   to={member.twitterLink}
+              //   target="_blank"
+              //   rel="noopener noreferrer"
+              // >
+              // <i className="fab fa-twitter"></i>
 
                 
-              </Link>
+              </Link> */}
               <a
                 href={member.linkedinLink}
                 target="_blank"
