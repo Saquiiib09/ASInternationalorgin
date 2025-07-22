@@ -14,26 +14,26 @@ const Banner = () => {
       <span className="banner_text">بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ</span>
       <div className="contact_details">
         <ul>
-          <li>
-            <Link to="tel:+919769456956">
+          {/* <li> */}
+            {/* <Link to="tel:+919769456956">
               {" "}
               <span class="emoji yellow"> 📞 </span>
               +91 9769456956
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link to="mailto:admin@asinternational.org.in">
               ✉️ admin@asinternational.org.in
             </Link>{" "}
           </li>
-          <div className="social_icons">
+          {/* <div className="social_icons">
           <li>
             <Link
               to="https://wa.me/919769456956"
               target="_blank"
               rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon
+            > */}
+              {/* <FontAwesomeIcon
                 icon={faWhatsapp}
                 size="2x"
                 style={{ color: "#25D366" }}
@@ -68,7 +68,7 @@ const Banner = () => {
               />
             </Link>
           </li>
-          </div>
+          </div> */}
         </ul>
       </div>
     </div>
