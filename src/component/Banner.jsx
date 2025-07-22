@@ -21,11 +21,11 @@ const Banner = () => {
               +91 9769456956
             </Link>
           </li> */}
-          <li>
+          {/* <li>
             <Link to="mailto:admin@asinternational.org.in">
               ✉️ admin@asinternational.org.in
             </Link>{" "}
-          </li>
+          </li> */}
           {/* <div className="social_icons">
           <li>
             <Link
