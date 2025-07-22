@@ -17,7 +17,7 @@ const About = () => {
         },
         {
             name: "FAIZAN KHAN",
-            role: "Recruitment Head",
+            role: "Project  Manager",
            
             linkedinLink: "https://www.linkedin.com/company/a-s-international-hr-consultancy/",
         },
@@ -29,7 +29,7 @@ const About = () => {
         },
         {
             name: "TARIQUE KHAN",
-            role: "CEO - Project Manager",
+            role: "Recruitment Head",
            
             linkedinLink: "https://www.linkedin.com/company/a-s-international-hr-consultancy/",
         },
